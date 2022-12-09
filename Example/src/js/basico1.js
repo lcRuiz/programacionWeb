@@ -6,6 +6,6 @@
 /**
  * Declaración de variables
  */
-var nombre = "Saludos Gente";
+var saludo = "Saludos Gente";
 
-console.log(nombre);
+console.log(saludo);
