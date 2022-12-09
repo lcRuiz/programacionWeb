@@ -6,6 +6,6 @@
 /**
  * Declaración de variables
  */
-var nombre = "Diego";
+var nombre = "Saludos Gente";
 
 console.log(nombre);
