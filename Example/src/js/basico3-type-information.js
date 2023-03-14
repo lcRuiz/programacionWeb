@@ -9,6 +9,7 @@ var mayorDeEdad = true;
 /**
  * La función "typeof(param)"
  * retorna el tipo de dato de el parametro "param"
+ * 
  */
 var tipos = {
     tipoNombre : typeof(nombre),
